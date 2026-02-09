@@ -28,6 +28,8 @@ I'm currently pursuing a bachelor's degree in Computer Science at VNUHCM - HCMUT
 
 ### ▼ Languages & Frameworks
 
+<div align="center">
+
 <table>
 <tr>
 <th>Languages</th>
@@ -58,7 +60,11 @@ I'm currently pursuing a bachelor's degree in Computer Science at VNUHCM - HCMUT
 </tr>
 </table>
 
+</div>
+
 ### ▼ Database & Cloud
+
+<div align="center">
 
 <table>
 <tr>
@@ -88,6 +94,8 @@ I'm currently pursuing a bachelor's degree in Computer Science at VNUHCM - HCMUT
 </td>
 </tr>
 </table>
+
+</div>
 
 ## 📊 GitHub Analytics
 
